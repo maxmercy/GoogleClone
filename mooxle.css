@@ -1,0 +1,107 @@
+
+
+nav ul {
+	text-align: right;
+
+	
+}
+ul li {
+	list-style: none;
+	display: inline;
+	padding: 0px 10px;
+	text-align: center;
+	margin: auto;
+}
+
+
+
+nav img {
+	height: 30px;
+    width: 30px;
+    vertical-align: middle;
+}
+
+.img-crop {
+    height: 40px;
+    width: 40px;
+      position: relative;
+    overflow: hidden;
+    border-radius: 50%;  
+}
+
+
+li {
+	
+	font-size: 30px;
+}
+
+
+article {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+.logo {
+    height: 70%;
+    width: 70%;
+    position: relative;
+    padding-top: 40%;
+    padding-bottom: 30px;
+}
+
+.searchbox {
+	border: 1px solid black;
+	padding: 5px;
+	height: 40px;
+	width: 70%;
+}
+
+.micro-img {
+	    height: 36px;
+	float: right;
+
+}
+
+
+article ul {
+	padding: 20px;
+    position: relative;
+    margin: auto;
+
+}
+
+article ul li {
+	list-style: none;
+	display: inline;
+	padding: 10px 40px;
+	text-align: center;
+	margin: auto;
+	background-color: silver;
+	font-weight: bold;
+}
+
+footer {
+   position:absolute;
+   bottom:0;
+   background-color: silver;
+   text-decoration-color: silver;
+      height: 80px;
+      width: 100%;
+
+}
+
+
+.footleft {
+float:left;
+margin-right: 15px;
+}
+
+.footright {
+float:right; 
+margin-right: 20px;
+}
+
+
+footer ul li {
+	padding-left: 10px;
+}
